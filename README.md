@@ -10,7 +10,7 @@ Building it was also useful for studying for my college's Modular Programming ex
 
 - Sometimes the width of the buttons flickers when the numbers are typed
 - Operator buttons are not highlighted when selected
-- The "=" button does not repeat the last operation when pressed multiple times
+- Equals button does not repeat the last operation when pressed multiple times
 
 ---
 
